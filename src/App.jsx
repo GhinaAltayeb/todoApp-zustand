@@ -30,6 +30,7 @@ function App() {
 
       <TaskFilters
         setFilter={setFilter}
+        filter={filter}
       />
 
       <TaskList
